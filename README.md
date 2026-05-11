@@ -37,7 +37,7 @@
 **JavaScript Review — Bug Detection**
 Score badge · Severity cards · Actionable fixes
 
-![JavaScript Review](docs/screenshot-js.png)
+![JavaScript Review](./docs/screenshot-js.png)
 
 </td>
 <td width="50%">
@@ -45,7 +45,7 @@ Score badge · Severity cards · Actionable fixes
 **C/C++ Review — Memory Management Analysis**
 Language-specific snippet auto-loads on pill click
 
-![C++ Review](docs/screenshot-cpp.png)
+![C++ Review](./docs/screenshot-cpp.png)
 
 </td>
 </tr>
